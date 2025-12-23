@@ -1,0 +1,9 @@
+body {
+    background: #f4f6f9;
+}
+
+.card img {
+    height: 150px;
+    object-fit: contain;
+    padding: 10px;
+}
